@@ -1,12 +1,6 @@
 # TF-IDF Document Similarity Explorer
 
-Monorepo with two packages: a pure TF-IDF core module (zero Node.js dependencies) and an interactive UI to visualize document similarity.
-
-Based on the formulas from Chapter 6 of [*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/) by Jurafsky & Martin.
-
-## Module (`module/`)
-
-Pure TypeScript package, browser-compatible. Zero runtime dependencies.
+https://github.com/user-attachments/assets/d026b913-59ef-4618-93ae-9a1449a4a47f
 
 ### Tokenization
 
